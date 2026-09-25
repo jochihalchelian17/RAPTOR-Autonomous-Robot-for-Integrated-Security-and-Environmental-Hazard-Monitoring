@@ -141,3 +141,5 @@ Signal flow: Sensors and button → Arduino → processing/decision → L293D + 
 ## **11. Conclusion** 
 
 The Patrol Car project successfully demonstrates how an Arduino UNO, an L293D motor driver, an ultrasonic sensor with a servo-based scanning mechanism, a buzzer and a push button can be combined into a functional autonomous patrol robot. It provides a practical, low-cost foundation for security and surveillance applications while remaining simple enough to extend with additional sensors, wireless communication or camera-based monitoring in future iterations.
+<img width="1130" height="1599" alt="image" src="https://github.com/user-attachments/assets/94da9602-838d-4e4f-ae28-20cd5aada5cc" />
+
